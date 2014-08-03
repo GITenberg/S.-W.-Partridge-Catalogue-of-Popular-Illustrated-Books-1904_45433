@@ -1,0 +1,3507 @@
+.. -*- encoding: utf-8 -*-
+
+.. meta::
+   :PG.Id: 45433
+   :PG.Title: \S. \W. Partridge Catalogue of Popular Illustrated Books, 1904
+   :PG.Released: 2014-04-18
+   :PG.Rights: Public Domain
+   :PG.Producer: Al Haines
+   :DC.Creator: \S. \W. Partridge
+   :DC.Title: \S. \W. Partridge Catalogue of Popular Illustrated Books, 1904
+   :DC.Language: en
+   :DC.Created: 1904
+   :coverpage: images/img-cover.jpg
+
+============================================================
+S. W. PARTRIDGE CATALOGUE OF POPULAR ILLUSTRATED BOOKS, 1904
+============================================================
+
+.. clearpage::
+
+.. pgheader::
+
+.. container:: titlepage center white-space-pre-line
+
+   .. vspace:: 4
+
+   .. class:: x-large
+
+      \S. \W. PARTRIDGE & CO.
+      CATALOGUE
+      OF
+      Popular
+      Illustrated
+      Books
+
+   .. class:: medium
+
+      Classified according
+      to Prices.
+
+   .. vspace:: 2
+
+   .. class:: medium
+
+      New Books and New Editions
+      are marked with an Asterisk.
+
+   .. vspace:: 3
+
+   .. class:: medium
+
+      Published by
+      \S. \W. PARTRIDGE & CO.,
+      8 & 9, PATERNOSTER Row, LONDON, E.C.
+      1904
+
+   .. vspace:: 4
+
+.. class:: center large bold
+
+   *10s.*
+
+.. vspace:: 1
+
+.. class:: center
+
+   By FERRAR FENTON.
+
+.. vspace:: 1
+
+The Complete Bible in Modern English. Incorporating
+the five volumes recently issued. Cloth extra, gilt top. Net.
+(For list of separate volumes, see page 7).
+
+.. vspace:: 3
+
+.. class:: center large bold
+
+   *7s.*
+
+.. vspace:: 1
+
+The Holy Land in Geography and History. By
+Townsend McCoun, M.A. With 154 Coloured Maps and Plans.
+Two volumes (not sold separately). Crown 8vo. Cloth boards.
+
+.. vspace:: 2
+
+.. class:: center large bold
+
+   *5s. each.*
+
+.. vspace:: 1
+
+.. class:: center
+
+By GEO. MANVILLE FENN.
+
+.. vspace:: 1
+
+\*To Win or to Die. By George Manville Fenn. Large Crown
+8vo. Illustrated. Cloth boards, gilt edges.
+
+.. vspace:: 1
+
+Sappers and Miners; or, The Flood Beneath the Sea.
+By G. Manville Fenn. Large Crown 8vo. Illustrated. Cloth
+boards, gilt edges.
+
+.. vspace:: 1
+
+In the Mahdi's Grasp. By G. Manville Fenn. Illustrated
+by Lancelot Speed. Large Crown 8vo. Cloth boards, gilt edges.
+
+.. vspace:: 1
+
+In Honour's Cause: A Tale of the Days of George the
+First. By G. Manville Fenn. Illustrated by Lancelot Speed.
+Large Crown 8vo. Cloth boards, gilt edges.
+
+.. vspace:: 1
+
+Steve Young; or, The Voyage of the "Hvalross" to the
+Icy Seas. By G. Manville Fenn. Large Crown 8vo. Illustrated.
+Cloth boards, gilt edges.
+
+.. vspace:: 2
+
+.. class:: center
+
+By ROBERT LEIGHTON.
+
+.. vspace:: 1
+
+Cap'n Nat's Treasure: A Tale of Old Liverpool. By
+Robert Leighton, Author of "The Pilots of Pomona," etc. Eight
+Illustrations. Large Crown 8vo. Cloth.
+
+.. vspace:: 2
+
+.. class:: center
+
+By G. A. HENTY.
+
+.. vspace:: 1
+
+Cuthbert Hartington: A Tale of Two Sieges of Paris.
+By Geo. A. Henty. Large Crown 8vo. Six Illustrations. Cloth
+boards, gilt edges.
+
+.. vspace:: 2
+
+The Scarlet Judges. By Eliza F. Pollard, Author of "A
+Hero King: A Romance of the Days of Alfred the Great," etc.
+Illustrated. Large Crown 8vo. Bevelled boards, gilt edges.
+
+.. vspace:: 1
+
+The Two Protectors: Oliver and Richard Cromwell. By
+Sir Richard Tangye, K.B. With extracts from unpublished
+manuscripts and reproductions of original portraits in the collection
+of the Author. Demy 8vo. 300 pages. Cloth boards, gilt top.
+38 Illustrations on Art Paper.
+
+.. vspace:: 1
+
+The Two Babylons; or, The Papal Worship proved to be
+the Worship of Nimrod and his Wife. With 61 Illustrations from
+Nineveh, Babylon, Egypt, Pompeii, etc. By the late Alexander
+Hislop. Demy 8vo. Cloth extra.
+
+.. vspace:: 3
+
+.. class:: center large bold
+
+   *3s. 6d. each.*
+
+.. vspace:: 1
+
+.. class:: center
+
+By SILAS K. HOCKING.
+
+.. vspace:: 1
+
+\*Smoking Flax. By Silas K. Hocking, Author of "In Spite of
+Fate," etc. Large Crown 8vo. Twelve Illustrations. Cloth,
+gilt top.
+
+.. vspace:: 1
+
+\*Old Wenyon's Will. By John Ackworth, Author of "Clogshop
+Chronicles," etc. Large Crown 8vo. Twelve Illustrations.
+344 pages. Cloth, gilt top.
+
+.. vspace:: 1
+
+More than Money. By A. St. John Adcock, Author of
+"In the Image of God," etc. Twelve Illustrations. Large Crown
+8vo. Cloth, gilt top.
+
+.. vspace:: 1
+
+Those Berkeley Girls. By Lillias Campbell Davidson,
+Author of "Into a Far Country." Twenty-four Illustrations.
+Large Crown 8vo. Cloth boards, gilt top.
+
+.. vspace:: 1
+
+The Awakening of Helena Thorpe. By E. Rentoul Esler,
+Author of "A Maid of the Manse," "The Wardlaws," etc. Large
+Crown 8vo. Eight Illustrations. Cloth boards, gilt top.
+
+.. vspace:: 1
+
+The Parting of the Ways. By J. L. Hornibrook, Author
+of "In the Bonds of Silence." Twelve Illustrations. Large Crown
+8vo. Cloth boards, gilt top.
+
+.. vspace:: 1
+
+A Lion of Wessex; or, How Saxon fought Dane. By
+Tom Bevan, Author of "Dick Dale, the Colonial Scout." Large
+Crown 8vo. Eight Illustrations. Cloth boards, gilt top.
+
+.. vspace:: 1
+
+Among Hills and Valleys in Western China. By
+Hannah Davies. Demy 8vo. 326 pages. Fifty Illustrations from
+photos, and Large Map.
+
+.. vspace:: 1
+
+Jungle and Stream; or, The Adventures of Two Boys in
+Siam. By G. Manville Fenn, Author of "Cormorant Crag," etc.
+Large Crown 8vo. Illustrated. Cloth boards, gilt top.
+
+.. vspace:: 1
+
+A Hero King: A Romance of the Days of Alfred the Great.
+By Eliza F. Pollard, Author of "A Gentleman of England," "The
+White Dove of Amritzir," etc. Frontispiece. Gilt top.
+
+.. vspace:: 1
+
+The Three-Cornered House. By the Author of "Everybody's
+Friend." Illustrated. Large Crown 8vo. Cloth extra,
+gilt top.
+
+.. vspace:: 1
+
+Casque and Cowl: A Tale of the French Reformation. By
+F. M. Cotton Walker, Author of "The Lily and the Rose," etc.
+364 pages. Four Illustrations. Large Crown 8vo. Cloth boards,
+gilt top.
+
+.. vspace:: 1
+
+A Boy of the First Empire. By Elbridge S. Brooks.
+332 pages. Six Illustrations. Large Crown 8vo. Cloth boards,
+gilt top.
+
+.. vspace:: 1
+
+Dick Dale; The Colonial Scout. A Story of the Transvaal
+War of 1899-1900. By Tom Bevan, Author of "White Ivory and
+Black," etc. Large Crown 8vo. 332 pages. Illustrated. Cloth
+extra, gilt top.
+
+.. vspace:: 1
+
+A Lady of High Degree. By Jennie Chappell, Author of
+"Her Saddest Blessing," etc. Large Crown 8vo. Illustrated.
+Cloth extra, gilt top.
+
+.. vspace:: 1
+
+A Gentleman of England. A Story of the Time of Sir
+Philip Sidney. By Eliza F. Pollard. Author of "The White Dove
+of Amritzir," "Roger the Ranger," etc. Large Crown 8vo. Cloth
+extra, gilt top.
+
+.. vspace:: 1
+
+Pilgrims of the Night. By Sarah Doudney. Frontispiece.
+Large Crown 8vo. Cloth extra, gilt top.
+
+.. vspace:: 1
+
+The Story of the Bible. Arranged in Simple Style for
+Young People. One Hundred Illustrations. Demy 8vo. Cloth
+extra, 3s. 6d. Gilt edges, bevelled boards, 4s. 6d.
+
+.. vspace:: 1
+
+Six Stories by "Pansy." Imperial 8vo. 390 pages.
+Fully Illustrated and Well-Bound in Cloth, with attractive
+Coloured Design on Cover, and Six Complete Stories in each Vol.
+3s. 6d. each.
+
+.. vspace:: 1
+
+Through Fire and Storm: Stories of Adventure and Peril.
+By G. A. Henty, G. Manville Fenn, and John A. Higginson.
+Crown 8vo. 320 pages. Frontispiece. Cloth extra, gilt top.
+
+.. vspace:: 1
+
+The Skeleton Reef: A Sea Story. By Hugh St. Leger.
+Large Crown 8vo. Frontispiece. Cloth extra, gilt top.
+
+.. vspace:: 1
+
+The Pilgrim's Progress. By John Bunyan. Illustrated
+with 55 full-page and other Engravings, drawn by Frederick
+Barnard, J. D. Linton, W. Small, and engraved by Dalziel
+Brothers. Crown 4to. Cloth extra, 3s. 6d. Gilt edges, 5s.
+
+.. vspace:: 1
+
+The Scuttling of the "Kingfisher." By Alfred E. Knight.
+Frontispiece. Large Crown 8vo. Cloth extra, gilt top.
+
+.. vspace:: 1
+
+The Missing Million: A Tale of Adventure in Search of a
+Million Pounds. By E. Harcourt Burrage. Frontispiece. Large
+Crown 8vo. Cloth extra, gilt top.
+
+.. vspace:: 1
+
+Come, Break your Fast: Daily Meditations for a Year.
+By Rev. Mark Guy Pearse. 544 pages. Large Crown 8vo.
+Cloth extra.
+
+.. vspace:: 3
+
+.. class:: center large bold
+
+   *2s. 6d. each.*
+
+.. vspace:: 1
+
+.. class:: bold
+
+NEW SERIES OF BOOKS FOR GIRLS.
+
+.. vspace:: 1
+
+.. class:: center small white-space-pre-line
+
+*By Popular Authors. Large Crown 8vo. 332 pages, 6 illustrations.
+Handsomely bound in Cloth boards.*
+
+.. vspace:: 1
+
+\*A Girl's Battle. By Lillias Campbell Davidson.
+
+.. vspace:: 1
+
+\*A Girl in a Thousand. By Edith Kenyon.
+
+.. vspace:: 1
+
+\*Agnes Dewsbury. By Laura A. Barter-Snow.
+
+.. vspace:: 1
+
+\*Monica's Choice. By Flora E. Berry.
+
+.. vspace:: 2
+
+.. class:: bold
+
+"RED MOUNTAIN" SERIES.
+
+.. vspace:: 1
+
+\*True Grit: A Story of Adventure in West Africa. By
+Harold Bindloss. Six Illustrations.
+
+.. vspace:: 1
+
+\*The Yellow Shield; or, A Captive in the Zulu Camp.
+By William Johnston. Six Illustrations.
+
+.. vspace:: 1
+
+The Firebrands of the Caspian: The Story of a Bold
+Enterprise. By F. M. Holmes. Illustrated.
+
+.. vspace:: 1
+
+A Desert Scout: A Tale of Arabi's Revolt. By Wm.
+Johnston. Illustrated.
+
+.. vspace:: 1
+
+Cormorant Crag: A Tale of the Smuggling Days. By
+G. Manville Fenn. Eight Illustrations by W. Rainey, R.I.
+
+.. vspace:: 1
+
+One of the Tenth: A Tale of the Royal Hussars. By
+William Johnston. Six Illustrations.
+
+.. vspace:: 1
+
+Gold or Dross? By John W. Kneeshaw, Author of
+"Norcliffe Court," etc. Six Illustrations.
+
+.. vspace:: 1
+
+Lost in the Slave Land; or, The Mystery of the Sacred
+Lamp Rock. By W. M. Graydon. Six Illustrations.
+
+.. vspace:: 1
+
+Ice-Bound; or, The Anticosti Crusoes. By Edward Roper,
+F.R.G.S. Six Illustrations.
+
+.. vspace:: 1
+
+On Winding Waters: A Tale of Adventure and Peril.
+By William Murray Graydon. Six Illustrations.
+
+.. vspace:: 1
+
+Under the Sirdar's Flag. By William Johnston, Author
+of "Tom Graham, V.C.," etc. Six Illustrations.
+
+.. vspace:: 1
+
+Dorothy: The Coombehurst Nightingale. By E. M.
+Alford, Author of "Honor," etc. Frontispiece.
+
+.. vspace:: 1
+
+The Boy from Cuba: A School Story. By Walter Rhoades,
+Author of "Two Scapegraces," etc.
+
+.. vspace:: 1
+
+The Fighting Lads of Devon; or, In the Days of the
+Armada. By Wm. Murray Graydon.
+
+.. vspace:: 1
+
+A Trip to Many Lands. By W. J. Forster. Illustrated
+with 26 full-page pictures. 4to. Cloth gilt.
+
+.. vspace:: 1
+
+The Adventures of Mark Paton. By Charles J. Mansford,
+Author of "Shafts from an Eastern Quiver," etc.
+
+.. vspace:: 1
+
+The Adventures of Don Lavington. By G. Manville Fenn.
+
+.. vspace:: 1
+
+By Sea-Shore, Wood, and Moorland: Peeps at Nature.
+By Edward Step, Author of "Plant Life," etc.
+
+.. vspace:: 1
+
+The Crystal Hunters: A Boy's Adventures in the Higher
+Alps. By G. Manville Fenn.
+
+.. vspace:: 1
+
+The Eagle Cliff: A Tale of the Western Isles.
+By R. M. Ballantyne, Author of "Fighting the Flames," etc.
+
+.. vspace:: 1
+
+England's Navy: Stories of its Ships and its Services.
+With a Glance at Some Navies of the Ancient World. By F. M.
+Holmes, Author of "Great Works by Great Men," etc.
+
+.. vspace:: 1
+
+First in the Field: A Story of New South Wales. By G.
+Manville Fenn. 416 pages.
+
+.. vspace:: 1
+
+The Grand Chaco. By the same Author. 416 pages.
+
+.. vspace:: 1
+
+Great Works by Great Men: The Story of Famous
+Engineers and their Triumphs. By F. M. Holmes.
+
+.. vspace:: 1
+
+The Lady of the Forest. By L. T. Meade, Author of
+"Scamp and I," "Sweet Nancy," etc.
+
+.. vspace:: 1
+
+Loyal: A Story of the Mercantile Marine. By Arthur Collard.
+
+.. vspace:: 1
+
+Norcliffe Court. By John W. Kneeshaw, Author of "A
+Black Shadow," "From Dusk to Dawn," etc.
+
+.. vspace:: 1
+
+Roger the Ranger: A Story of Border Life among the
+Indians. By Eliza F. Pollard, Author of "Not Wanted," etc.
+
+.. vspace:: 1
+
+The Red Mountain of Alaska. By Willis Boyd Allen,
+Author of "Pine Cones," "The Northern Cross," etc.
+
+.. vspace:: 1
+
+True unto Death: A Story of Russian Life and the Crimean
+War. By Eliza F. Pollard, Author of "Roger the Ranger."
+
+.. vspace:: 1
+
+The Two Henriettas. By Emma Marshall, Author of
+"Eaglehurst Towers," etc.
+
+.. vspace:: 1
+
+Yashti Savage: The Story of a Gipsy Girl. By Sarah
+Tytler.
+
+.. vspace:: 1
+
+The White Dove of Amritzir: A Romance of Anglo-Indian
+Life. By Eliza F. Pollard.
+
+.. vspace:: 3
+
+.. class:: bold
+
+POPULAR WORKS BY MISS CHARLOTTE MURRAY.
+
+.. vspace:: 1
+
+\*From School to Castle. By Charlotte Murray. Illustrated.
+Large Crown 8vo. Cloth boards.
+
+.. vspace:: 1
+
+Coral: A Sea Waif and her Friends. 268 pages. Six
+Illustrations. Cloth boards.
+
+.. vspace:: 1
+
+Stuart's Choice; or, Castleton's "Prep." Crown 8vo. 288
+pages. Six Illustrations. Cloth boards.
+
+.. vspace:: 1
+
+Muriel Malone; or, From Door to Door. Illustrated.
+Crown 8vo. 272 pages. Cloth boards.
+
+.. vspace:: 1
+
+Through Grey to Gold. Crown 8vo. 280 pages. Six
+Illustrations. Cloth boards.
+
+.. vspace:: 1
+
+Wardlaugh; or, Workers Together. (See under Home
+Library. 2s.)
+
+.. vspace:: 3
+
+.. class:: bold white-space-pre-line
+
+FERRAR FENTON'S TRANSLATIONS OF THE HOLY SCRIPTURES
+IN MODERN ENGLISH. 2s. 6d. each Net.
+
+.. vspace:: 1
+
+Vol. I.--The Five Books of Moses.
+
+.. vspace:: 1
+
+Vol. II.--The History of Israel.
+
+.. vspace:: 1
+
+Vol. III.--The Books of the Prophets.
+
+.. vspace:: 1
+
+Vol. IV.--The Psalms, Solomon, and Sacred Writers.
+
+.. vspace:: 1
+
+Vol. V.--The New Testament.
+
+.. vspace:: 1
+
+\*Stories of Self-Help: Recent and Living Examples of Men
+Risen from the Ranks. By John Alexander, Author of "The
+Two Stephensons." Well Illustrated.
+
+.. vspace:: 1
+
+A Young Man's Mind. By J. A. Hammerton, Author of "J.
+M. Barrie and His Books," etc. Crown 8vo. Cloth extra, gilt top.
+
+.. vspace:: 1
+
+The Romance of The Bible. The Marvellous History
+of the British and Foreign Bible Society. By Charles F. Bateman,
+Author of "Dr. Clifford," etc. Crown 8vo. Cloth.
+
+.. vspace:: 1
+
+Crown and Empire: A Popular Account of the Lives,
+Public and Domestic, of Edward VII. and Queen Alexandra.
+With Notes on some Memorable Coronations. By Alfred E.
+Knight, Author of "Victoria: Her Life and Reign," etc. Large
+Crown 8vo. 336 pages. Bound in handsome cloth boards, and
+containing 28 Illustrations.
+
+.. vspace:: 1
+
+My Dogs in the Northland. By Egerton R. Young,
+Author of "By Canoe and Dog Train," etc. 288 pages. Many
+Illustrations. Crown 8vo. Cloth.
+
+.. vspace:: 1
+
+From Stage to Cross: The Record of a Rolling Stone.
+By F. C. Vernon-Harcourt. Crown 8vo. 320 pages. Illustrated.
+2s. 6d. Net.
+
+.. vspace:: 1
+
+Our Rulers: From William the Conqueror to Edward VII.
+By J. Alexander. Foolscap 4to. Cloth gilt. Sixty beautiful
+Illustrations. Attractively bound.
+
+.. vspace:: 1
+
+The Great Siberian Railway: What I saw on my Journey.
+By Dr. F. E. Clark. Crown 8vo. 213 pages. Sixty-five First-class
+Illustrations on art paper, and a Map. Handsomely bound.
+
+.. vspace:: 1
+
+Chaplains at the Front. By One of Them. Incidents in
+the Life of a Chaplain during the Boer War, 1899-1900. By
+Owen Spencer Watkins, Acting Wesleyan Chaplain to His
+Majesty's Forces. With 44 excellent Illustrations, printed on
+art paper, from photographs, etc., taken on the field, and 3 Maps.
+Crown 8vo. 334 pages. Handsomely bound.
+
+.. vspace:: 1
+
+Lord Roberts of Kandahar, V.C.: The Life-Story of a
+Great Soldier. By Walter Jerrold. Crown 8vo. Eight Illustrations.
+Handsomely bound in cloth boards. 2s. 6d. Net.
+
+.. vspace:: 1
+
+Sir Redvers H. Buller, V.C.: The Story of His Life and
+Campaigns. By Walter Jerrold. Crown 8vo. 218 pages. With
+8 Illustrations, 2s. 6d. net.
+
+.. vspace:: 1
+
+Following Jesus: A Bible Picture Book for the Young.
+Size 13-1/2 by 10 inches. Contains 12 beautifully coloured Old and
+New Testament Scenes, with appropriate letterpress by D.J.D.
+
+.. vspace:: 1
+
+Brought to Jesus: A Bible Picture Book for Little Readers.
+Containing 12 New Testament Scenes, printed in colours. Size
+13-1/2 by 10 inches. Handsome coloured boards.
+
+.. vspace:: 1
+
+Bible Pictures and Stories: Old and New Testament. In
+one Volume. Bound in handsome cloth, with 89 full-page
+Illustrations by Eminent Artists.
+
+.. vspace:: 1
+
+Light for Little Footsteps; or, Bible Stories Illustrated.
+With beautiful coloured Cover and Frontispiece. Full of Pictures.
+Size 13-1/2 by 10 inches.
+
+.. vspace:: 1
+
+Potters: their Arts and Crafts. Historical, Biographical,
+and Descriptive. By John C. Sparks and Walter Gandy. Crown
+8vo. Copiously Illustrated. Cloth extra, 2s. 6d.; art linen, gilt
+edges, 3s. 6d.
+
+.. vspace:: 1
+
+The Story of Jesus. For Little Children. By Mrs. G.
+E. Morton. Many Illustrations. Imperial 16mo.
+
+.. vspace:: 1
+
+The Spiritual Grasp of the Epistles; or, An Epistle
+a-Sunday. By Rev. Charles A. Fox. Cloth Boards.
+
+.. vspace:: 1
+
+Upward and Onward. A Thought Book for the Threshold
+of Active Life. By S. W. Partridge. Cloth boards.
+
+.. vspace:: 1
+
+Victoria: Her Life and Reign. By Alfred E. Knight.
+New edition, brought up to date. Crown 8vo. 384 pages. Cloth
+extra, 2s. 6d.; fancy cloth, gilt edges, 3s. 6d.
+
+.. vspace:: 3
+
+.. class:: center large bold
+
+   *2s. each.*
+
+.. vspace:: 1
+
+.. class:: bold
+
+THE HOME LIBRARY
+
+.. vspace:: 1
+
+.. class:: center small white-space-pre-line
+
+*Crown 8vo. 320 pages. Handsome Cloth Covers. 
+Artistically Illustrated.*
+
+.. vspace:: 1
+
+\*Crag Island; or The Mystery of Val Stanlock. By W.
+Murray Graydon, Author of "The Fighting Lads of Devon," etc.
+Six Illustrations.
+
+.. vspace:: 1
+
+\*Wild Bryonie. By Jennie Chappell.
+
+.. vspace:: 1
+
+\*Edwin, the Boy Outlaw; or, the Dawn of Freedom in
+England. A Story of the Days of Robin Hood. By J. Frederick
+Hodgetts, Author of "Older England," etc.
+
+.. vspace:: 1
+
+\*Manco, the Peruvian Chief. By W. H. G. Kingston.
+New Edition. Illustrated by Lancelot Speed.
+
+.. vspace:: 1
+
+Neta Lyall. By Flora E. Berry, Author of "In Small
+Corners," etc. Six Illustrations.
+
+.. vspace:: 1
+
+Robert Aske: A Story of the Reformation. By E. F.
+Pollard. Eight Illustrations.
+
+.. vspace:: 1
+
+John Burleigh's Sacrifice. By Mrs. Chas. Garnett.
+Nineteen Illustrations.
+
+.. vspace:: 1
+
+The Lion City of Africa. By Willis Boyd Allen.
+Sixteen Illustrations.
+
+.. vspace:: 1
+
+Aveline's Inheritance. By Jennie Chappell, Author of
+"A Lady of High Degree." etc. Six Illustrations.
+
+.. vspace:: 1
+
+Around the Fire: Yule-tide Stories. By M. S. Haycraft.
+
+.. vspace:: 1
+
+Ben-Hur. By L. Wallace.
+
+.. vspace:: 1
+
+The Better Part. By Annie S. Swan.
+
+.. vspace:: 1
+
+A Child of Genius. By Lily Watson.
+
+.. vspace:: 1
+
+Cousin Mary. By Mrs. Oliphant. Author of "Katie
+Stewart."
+
+.. vspace:: 1
+
+Dorothy's Training; or, Wild-flower or Weed?
+By Jennie Chappell.
+
+.. vspace:: 1
+
+Fortune's Wheel. A South African Story. By Eliza F.
+Pollard.
+
+.. vspace:: 1
+
+Grace Ashleigh; or, His Ways are Best. By Mary D. R.
+Boyd.
+
+.. vspace:: 1
+
+Honor: A Nineteenth-Century Heroine. By E. M. Alford.
+
+.. vspace:: 1
+
+Her Saddest Blessing. By Jennie Chappell.
+
+.. vspace:: 1
+
+The Inca's Ransom: A Story of the Conquest of Peru.
+By Albert Lee, Author of "The Black Disc," etc.
+
+.. vspace:: 1
+
+John: A Tale of the Messiah. By K. Pearson Woods.
+
+.. vspace:: 1
+
+Jacques Hamon; or, Sir Philip's Private Messenger. By
+Mary E. Ropes.
+
+.. vspace:: 1
+
+Leaders into Unknown Lands: Being Chapters of recent
+Travel. By A. Montefiore-Brice, F.G.S., F.R.G.S.
+
+.. vspace:: 1
+
+Lights and Shadows of Forster Square. By Rev. E. H.
+Sugden, M.A.
+
+.. vspace:: 1
+
+Living it Down. By Laura M. Lane.
+
+.. vspace:: 1
+
+The Last Earl Grahame. By Rev. J. M. Dryerre, LL.B.,
+F.R.G.S., Author of "Heroes and Heroines of the Scottish
+Covenanters." Six Illustrations.
+
+.. vspace:: 1
+
+More Precious than Gold. By Jennie Chappell.
+
+.. vspace:: 1
+
+The Martyr of Kolin: A Story of the Bohemian
+Persecution. By H. O. Ward.
+
+.. vspace:: 1
+
+Morning Dew-Drops: A Temperance Text Book. By
+Clara Lucas Balfour.
+
+.. vspace:: 1
+
+Mark Desborough's Vow. By Annie S. Swan.
+
+.. vspace:: 1
+
+Mick Tracy, the Irish Scripture Reader. By the Author of
+"Tim Doolan, the Irish Emigrant."
+
+.. vspace:: 1
+
+Norman's Nugget. By J. Macdonald Oxley, B.A. Author
+of "Archie Mackenzie," etc. Six Illustrations.
+
+.. vspace:: 1
+
+A Puritan Wooing: A Tale of the Great Awakening in
+New England. By Frank Samuel Child.
+
+.. vspace:: 1
+
+Petrel Darcy; or, In Honour Bound. By T. Corrie.
+
+.. vspace:: 1
+
+A Polar Eden; or, The Goal of the "Dauntless." By
+Charles R. Kenyon, Author of "The Young Ranchman," etc.
+
+.. vspace:: 1
+
+The Strait Gate. By Annie S. Swan.
+
+.. vspace:: 1
+
+The Spanish Maiden: A Story of Brazil. By Emma E.
+Hornibrook.
+
+.. vspace:: 1
+
+The Tramp Ship's Fate: The Story of a Secret
+Commission. By F. M. Holmes. Six Illustrations.
+
+.. vspace:: 1
+
+A Village Story. By Mrs. G. E. Morton, Author of "The
+Story of Jesus," etc.
+
+.. vspace:: 1
+
+Wardlaugh; or, Workers Together. By Charlotte Murray.
+
+.. vspace:: 1
+
+The Wreck of the "Providence." By Eliza F. Pollard.
+
+.. vspace:: 1
+
+Alfred the Great: The Father of the English. By Jesse
+Page. Crown 8vo. 288 pages. Eight Illustrations. Cloth extra.
+
+.. vspace:: 3
+
+.. class:: bold
+
+LIBRARY OF STANDARD WORKS BY FAMOUS AUTHORS.
+
+.. vspace:: 1
+
+.. class:: center small
+
+*Crown 8vo. Bound in handsome cloth boards.*
+
+.. vspace:: 1
+
+\*Melbourne House. By Susan Warner, Author of "The
+Wide, Wide World." 452 pages. Six Illustrations.
+
+.. vspace:: 1
+
+\*The Lamplighter. By Miss Cummins. 444 pages. Six
+Illustrations.
+
+.. vspace:: 1
+
+\*Grimm's Fairy Tales. Carefully chosen from the Tales
+collected by the Brothers Grimm. Twelve Illustrations. 344 pages.
+
+.. vspace:: 1
+
+\*The Swiss Family Robinson: Adventures on a Desert
+Island. Twelve Illustrations. 400 pages.
+
+.. vspace:: 1
+
+Tom Brown's School-Days. By an Old Boy. 344 pages.
+Twelve Illustrations.
+
+.. vspace:: 1
+
+Little Women and Good Wives. By Louisa M. Alcott.
+450 pages. Six Illustrations.
+
+.. vspace:: 1
+
+The Wide, Wide World. By Susan Warner. 478 pages.
+Six Illustrations.
+
+.. vspace:: 1
+
+Danesbury House. By Mrs. Henry Wood. 332 pages.
+Six Illustrations.
+
+.. vspace:: 1
+
+Stepping Heavenward. By E. Prentiss. 332 pages. Six
+Illustrations.
+
+.. vspace:: 1
+
+John Halifax, Gentleman. By Mrs. Craik. New Edition.
+540 pages.
+
+.. vspace:: 1
+
+Life and Adventures of Robinson Crusoe. By Daniel
+Defoe.
+
+.. vspace:: 1
+
+Naomi; or, The Last Days of Jerusalem. By Mrs. Webb.
+
+.. vspace:: 1
+
+The Pilgrim's Progress. By John Bunyan. 416 pages.
+
+.. vspace:: 1
+
+Uncle Tom's Cabin. By Harriet Beecher Stowe.
+
+.. vspace:: 1
+
+Westward Ho! By Chas. Kingsley.
+
+.. vspace:: 1
+
+Bunyan's Folk of To-day; or, The Modern Pilgrim's
+Progress. By Rev. J. Reid Howatt. Twenty Illustrations. Crown
+8vo. Cloth extra.
+
+.. vspace:: 1
+
+Sunday Afternoons with My Scholars. By J. Attenborough.
+With portrait. Crown 8vo. 290 pages. Cloth gilt.
+
+.. vspace:: 1
+
+Bible Light for Little Pilgrims. A Coloured Scripture
+Picture Roll. Contains 12 beautifully coloured Old and New
+Testament Scenes, with appropriate texts. Varnished cover
+printed in 10 colours. Mounted on Roller for hanging.
+
+.. vspace:: 1
+
+Twilight Whispers. For Devotional Moments. By J. O.
+Keen. Crown 8vo. 256 pages, with Portrait of the Author.
+Cloth boards.
+
+.. vspace:: 1
+
+Platform, Pulpit, and Desk; or, Tools for Workers.
+Being 148 Outline Addresses on all Phases of the Temperance
+Movement for all Ages and Classes. By W. N. Edwards, F.C.S.
+With an Introduction by Canon Barker. Crown 8vo. 300 pages.
+
+.. vspace:: 1
+
+Pleasant Half Hours; or, Thoughts for Men. By Rev. E.
+H. Sugden. M.A., Author of "Lights and Shadows, etc." With a
+Preface by Rev. A. Plummer, M.A., D.D., Master of University
+College, Durham. Crown 8vo, 224 pages.
+
+.. vspace:: 1
+
+Bible Picture Roll. Containing a large Engraving of a
+Scripture Subject, with letterpress, for each day in the month.
+
+.. vspace:: 1
+
+The Friends of Jesus: Illustrated Sketches for the Young
+of the Twelve Apostles, the Family at Bethany, and other of
+the earthly friends of the Saviour. Small 4to. Cloth extra.
+
+.. vspace:: 1
+
+Love, Courtship, and Marriage. By Rev. F. B. Meyer,
+B.A. Crown 8vo, 152 pages. Embellished cloth cover. 2s. Net.
+Full gilt edges, 2s. 6d. Net.
+
+.. vspace:: 1
+
+The Crucifixion of Phillip Strong. By Chas. M. Sheldon.
+
+.. vspace:: 1
+
+His Brother's Keeper. By Chas. M. Sheldon.
+
+.. vspace:: 1
+
+Our Exemplar; or, What would Jesus do? (In His Steps).
+By Chas. M. Sheldon.
+
+.. vspace:: 1
+
+Richard Bruce. By Chas. M. Sheldon.
+
+.. vspace:: 1
+
+The Twentieth Door. By Chas. M. Sheldon.
+
+.. vspace:: 3
+
+.. class:: center large bold
+
+   *1s. 6d. each.*
+
+.. vspace:: 1
+
+.. class:: bold
+
+THRILLING BUT PURE!
+
+.. vspace:: 1
+
+.. class:: small bold center
+
+A series or Charming Stories for Holiday and Fireside Reading.
+
+.. vspace:: 1
+
+.. class:: small center
+
+*Crown 8vo. 760 pages. Well Illustrated and Attractively Bound.*
+
+.. vspace:: 1
+
+\*A String of Pearls. By E. F. Pollard.
+
+.. vspace:: 1
+
+\*Elsie Macgregor: or, Margaret's Little Lass. By Ramsay
+Guthrie.
+
+.. vspace:: 1
+
+The Lady of the Chine. By M. S. Haycraft.
+
+.. vspace:: 1
+
+Carola's Secret. By Ethel F. Heddle.
+
+.. vspace:: 1
+
+The Home of his Fathers. By Lillias Campbell Davidson.
+
+.. vspace:: 1
+
+A Great Patience. By L. Moberly.
+
+.. vspace:: 1
+
+In the Bonds of Silence. By J. L. Hornibrook.
+
+.. vspace:: 1
+
+A Late Repentance. By Hannah B. Mackenzie.
+
+.. vspace:: 1
+
+Shepherds and Sheep. By E. Stuart-Langford.
+
+.. vspace:: 1
+
+The Golden Doors. By M. S. Haycraft.
+
+.. vspace:: 1
+
+A Noble Champion. By David Hobbs.
+
+.. vspace:: 2
+
+.. class:: bold
+
+THE UP-TO-DATE LIBRARY
+
+.. vspace:: 1
+
+.. class:: small center white-space-pre-line
+
+*Of Thick Crown 8vo. Volumes. 320 pages. Many Illustrations.
+Cloth boards.*
+
+.. vspace:: 1
+
+\*Avice: A Story of Imperial Rome. By E. F. Pollard.
+
+.. vspace:: 1
+
+\*The King's Daughter. By Pansy.
+
+.. vspace:: 1
+
+The Foster Brothers: or, Foreshadowed. By Mrs. Morton.
+
+.. vspace:: 1
+
+The Household Angel. By Madeline Leslie.
+
+.. vspace:: 1
+
+The Green Mountain Boys: A Story of the American
+War of Independence. By E. F. Pollard.
+
+.. vspace:: 1
+
+A Way in the Wilderness. By Maggie Swan.
+
+.. vspace:: 1
+
+Miss Elizabeth's Niece. By M. S. Haycraft.
+
+.. vspace:: 1
+
+The Man of the House. By "Pansy."
+
+.. vspace:: 1
+
+Olive Chauncey's Trust: A Story of Life's Turning Points.
+By Mrs. E. R. Pitman.
+
+.. vspace:: 1
+
+Whither Bound; A Story of Two Lost Boys. By Owen
+Landor.
+
+.. vspace:: 1
+
+Three People. By "Pansy."
+
+.. vspace:: 1
+
+Chrissy's Endeavour. By "Pansy."
+
+.. vspace:: 1
+
+The Young Moose Hunters. By C. A. Stephens.
+
+.. vspace:: 1
+
+Eaglehurst Towers. By Emma Marshall.
+
+.. vspace:: 1
+
+More Nails for Busy Workers. By C. Edwards. Author
+of "A Box of Nails for Busy Christian Workers." etc. Crown 8vo.
+196 pages. Cloth boards.
+
+.. vspace:: 1
+
+Queen Alexandra: the Nation's Pride. By Mrs. C. N.
+Williamson. Crown 8vo. Tastefully bound, 1s. 6d. Net.
+
+.. vspace:: 1
+
+King and Emperor: The Life-History of Edward VII.
+By Arthur Mee. Crown 8vo. Cloth boards, 1s. 6d. Net.
+
+.. vspace:: 1
+
+William McKinley: Private and President. By Thos.
+Cox Meech. Crown 8vo. 160 pages, with Portrait. Net.
+
+.. vspace:: 1
+
+Studies of the Man Paul. By Robert E. Speer. Long
+8vo. 304 pages. Cloth gilt. 1s. 6d. Net.
+
+.. vspace:: 1
+
+The Angel and the Demon; and other Stories. By E.
+Thorneycroft Fowler. Cloth gilt. Eight Illustrations.
+
+.. vspace:: 1
+
+A Measuring Eye. By E. Stuart-Langford, Author of
+"Miss Sophia's Repentance," etc. Illustrated. Cloth boards.
+
+.. vspace:: 1
+
+Wellington: The Record of a Great Military Career. By
+A. E. Knight. Crown 8vo. Cloth gilt, with Portrait, 1s. 6d. Net.
+
+.. vspace:: 1
+
+Hector Macdonald; or, The Private who became a General.
+By T. F. G. Coates. Cr. 8vo. Cloth gilt, with Portrait. 1s. 6d. Net.
+
+.. vspace:: 1
+
+Baden-Powell: The Hero of Mafeking. By W. Francis
+Aitken. Crown 8vo. Cloth gilt, with Portrait, 1s. 6d. Net.
+
+.. vspace:: 1
+
+Every-day Life in South Africa. By E. E. K. Lowndes.
+Crown 8vo. Illustrated. Cloth boards, 1s. 6d. Net.
+
+.. vspace:: 1
+
+The Royal Life. By Rev. J. C. Carlile. Crown 8vo. 128
+pages. Cloth gilt.
+
+.. vspace:: 1
+
+Insects: Foes and Friends. By W. Egmont Kirby, M.D.,
+F.L.S. 32 pages of Coloured Illustrations. Cloth boards.
+
+.. vspace:: 1
+
+The Romance of Evangelism. By Rev. J. Flanagan, South-East
+London Mission. Crown 8vo. 128 pages. Cloth boards.
+
+.. vspace:: 2
+
+.. class:: bold
+
+THE BRITISH BOYS' LIBRARY.
+
+.. vspace:: 1
+
+.. class:: center small
+
+*Fully Illustrated. Crown 8vo. 168 pages. Cloth extra.*
+
+.. vspace:: 1
+
+\*Brown A1; or, A Stolen Holiday. By E. M. Stooke.
+
+.. vspace:: 1
+
+\*The Pigeons' Cave: The Story of Great Orme's Head in
+1806. By J. S. Fletcher.
+
+.. vspace:: 1
+
+Robin the Rebel. By H. Louisa Bedford.
+
+.. vspace:: 1
+
+Runaway Rollo. By E. M. Stooke.
+
+.. vspace:: 1
+
+Success: Chats about Boys who have Won it. By C. D. Michael.
+
+.. vspace:: 1
+
+Well Done! Stories of Brave Endeavour. Edited by C.
+D. Michael, Author of "Heroes All," "Deeds of Daring," etc.
+
+.. vspace:: 1
+
+The Wonder Seekers. By Henry J. Barker, M.A.
+
+.. vspace:: 1
+
+Little Soldiers. By Kate L. Mackley.
+
+.. vspace:: 1
+
+Will; or, That Boy from the Union. By Lydia Phillips.
+
+.. vspace:: 1
+
+Heroes All! A Book of Brave Deeds for British Boys.
+Edited by C. D. Michael.
+
+.. vspace:: 1
+
+Deeds of Daring; or, Stories of Heroism in Every-day Life.
+By C. D. Michael.
+
+.. vspace:: 1
+
+Noble Deeds: Stories of Peril and Heroism. Edited by
+C. D. Michael.
+
+.. vspace:: 1
+
+Armour Bright: The Story of a Boy's Battles. By Lucy
+Taylor, Author of "Astronomers and their Observations," etc.
+
+.. vspace:: 1
+
+The Thane of the Dean: A Story of the Time of the
+Conqueror. By Tom Bevan.
+
+.. vspace:: 1
+
+The Old Red School-house: A Story of the Backwoods.
+By Francis H. Wood.
+
+.. vspace:: 1
+
+Ben: A Story of Life's Byways. By Lydia Phillips.
+
+.. vspace:: 1
+
+The Secret of the Yew. By Frank Yerlock.
+
+.. vspace:: 1
+
+Major Brown; or, Whether White or Black, a Man. By
+Edith S. Davis.
+
+.. vspace:: 1
+
+The Bell Buoy: or, The Story of a Mysterious Key. By
+P. M. Holmes.
+
+.. vspace:: 1
+
+Jack. A Story of a Scapegrace. By E. M. Bryant.
+
+.. vspace:: 1
+
+Hubert Ellerdale: A Tale of the Days of Wicliffe. By
+W. Oak Rhind.
+
+.. vspace:: 2
+
+.. class:: bold
+
+THE BRITISH GIRLS' LIBRARY.
+
+.. vspace:: 1
+
+.. class:: center small
+
+*Fully Illustrated. Crown 8vo. 160 pages. Cloth extra.*
+
+.. vspace:: 1
+
+\*Salome's Burden; or the Shadow on the Homes.
+By Eleanora H. Stooke.
+
+.. vspace:: 1
+
+Heroines: True Tales of Brave Women. By C. D.
+Michael, Author of "Well Done," etc.
+
+.. vspace:: 1
+
+Granny's Girls. By M. B. Manwell.
+
+.. vspace:: 1
+
+Mousey; or, Cousin Robert's Treasure. By Eleanora H.
+Stooke.
+
+.. vspace:: 1
+
+Marigold's Fancies. By L. E. Tiddeman.
+
+.. vspace:: 1
+
+"Our Phyllis." By M. S. Haycraft.
+
+.. vspace:: 1
+
+The Lady of Greyham; or, Low in a Low Place. By
+Emma E. Hornibrook.
+
+.. vspace:: 1
+
+The Gipsy Queen. By Emma Leslie.
+
+.. vspace:: 1
+
+Kathleen; or, A Maiden's Influence. By Julia Hack.
+
+.. vspace:: 1
+
+The Rajah's Daughter; or, The Half-Moon Girl. By
+Bessie Marchant.
+
+.. vspace:: 1
+
+In Self-Defence. By Julia Hack.
+
+.. vspace:: 1
+
+Regia: or, Her Little Kingdom. By E. M. Waterworth
+and Jennie Chappell.
+
+.. vspace:: 1
+
+Una's Marriage. By Mrs. Haycraft.
+
+.. vspace:: 1
+
+Tophi: An Armenian Romance. By Cecilia M. Blake.
+
+.. vspace:: 1
+
+Christabel's Influence. By J. Goldsmith Cooper.
+
+.. vspace:: 1
+
+Sweet Kitty Clare. By Jennie Chappell.
+
+.. vspace:: 1
+
+The Maid of the Storm: A Story of a Cornish Village.
+By Nellie Cornwall.
+
+.. vspace:: 1
+
+Queen of the Isles. By Jessie M. E. Saxby.
+
+.. vspace:: 2
+
+.. class:: bold
+
+"THE WORLD'S WONDERS" SERIES.
+
+.. vspace:: 1
+
+.. class:: center small
+
+*Crown 8vo. 160 pages. Copiously Illustrated. Handsome cloth covers.*
+
+.. vspace:: 1
+
+The Conquest of the Air: The Romance of Aerial
+Navigation. By John Alexander.
+
+.. vspace:: 1
+
+Surgeons and their Wonderful Discoveries. By F. M.
+Holmes.
+
+.. vspace:: 1
+
+The Life-Boat: Its History and Heroes. By F. M.
+Holmes.
+
+.. vspace:: 1
+
+Firemen and their Exploits. With an Account of Fire
+Brigades and Appliances. By F. M. Holmes.
+
+.. vspace:: 1
+
+Marvels of Ant Life. By W. F. Kirby, F.L.S., F.E.S.,
+of the Natural History Museum, South Kensington.
+
+.. vspace:: 1
+
+The Romance of the Savings Banks. By Archibald G. Bowie.
+
+.. vspace:: 1
+
+The Romance of Glass-Making: A Sketch of the History
+of Ornamental Glass. By W. Gandy.
+
+.. vspace:: 1
+
+The Romance of the Post-Office: Its Inception and
+Wondrous Development. By Archibald G. Bowie.
+
+.. vspace:: 1
+
+Marvels of Metals. By F. M. Holmes.
+
+.. vspace:: 1
+
+Miners and their Works Underground. By F. M. Holmes.
+
+.. vspace:: 1
+
+Triumphs of the Printing Press. By Walter Jerrold.
+
+.. vspace:: 1
+
+Astronomers and their Observations. By Lucy Taylor.
+With Preface by W. Thynne Lynn, B.A., F.R.A.S.
+
+.. vspace:: 1
+
+Celebrated Mechanics and their Achievements. By F.
+M. Holmes.
+
+.. vspace:: 1
+
+Engineers and their Triumphs. By F. M. Holmes.
+
+.. vspace:: 1
+
+Electricians and their Marvels. By Walter Jerrold.
+
+.. vspace:: 1
+
+Musicians and their Compositions. By J. R. Griffiths.
+
+.. vspace:: 1
+
+Naturalists and their Investigations. By George Day,
+F.R.M.S.
+
+.. vspace:: 2
+
+.. class:: bold
+
+POPULAR MISSIONARY BIOGRAPHIES.
+
+.. vspace:: 1
+
+.. class:: center small
+
+*Crown 8vo. 160 pages. Cloth extra. Fully Illustrated.*
+
+.. vspace:: 1
+
+\*Some Missionaries I have Known. By Jesse Page
+F.R.G.S., Author of "Samuel Crowther," etc.
+
+.. vspace:: 1
+
+James Chalmers, Missionary and Explorer of Rarotonga
+and New Guinea. By William Robson. New Edition, brought
+up-to-date by Frank B. Broad, of the London Missionary Society.
+With recent Portrait and many other Illustrations. 176 pages.
+
+.. vspace:: 1
+
+Griffith John, Founder of the Hankow Mission, Central
+China. By William Robson. New Edition, brought up-to date
+Dy Frank B. Broad, of the London Missionary Society. 176 pages.
+
+.. vspace:: 1
+
+Robert Morrison: The Pioneer of Chinese Missions By
+Wilham J. Townsend.
+
+.. vspace:: 1
+
+Amid Greenland Snows; or, The Early History of Arctic
+Missions. By Jesse Page, F.R.G.S.
+
+.. vspace:: 1
+
+Bishop Patteson: The Martyr of Melanesia. By same
+Author.
+
+.. vspace:: 1
+
+Captain Allen Gardiner: Sailor and Saint. By same
+Author.
+
+.. vspace:: 1
+
+The Congo for Christ: The Story of the Congo Mission.
+By Rev. J. B. Myers, Author of "William Carey," etc.
+
+.. vspace:: 1
+
+David Brainerd, the Apostle to the North-American
+Indians. By Jesse Page, F.R.G.S.
+
+.. vspace:: 1
+
+David Livingstone: His Labours and his Legacy. By
+Arthur Montefiore-Brice, Author of "H. M. Stanley," etc.
+
+.. vspace:: 1
+
+From Kafir Kraal to Pulpit: The Story of Tiyo Soga,
+First Ordained Preacher of the Kafir Race. By Rev. H. T.
+Cousins.
+
+.. vspace:: 1
+
+Japan: and its People. By Jesse Page, F.R.G.S.
+
+.. vspace:: 1
+
+John Williams: The Martyr Missionary of Polynesia. By
+Rev. James Ellis.
+
+.. vspace:: 1
+
+James Calvert; or, From Dark to Dawn in Fiji. By
+R. Vernon.
+
+.. vspace:: 1
+
+Lady Missionaries in Foreign Lands. By Mrs. E. R.
+Pitman, Author of "Missionary Heroines in Eastern Lands."
+
+.. vspace:: 1
+
+Missionary Heroines in Eastern Lands. By Mrs. E. R.
+Pitman.
+
+.. vspace:: 1
+
+Reginald Heber: Bishop of Calcutta, Author of "From
+Greenland's Icy Mountains." By A. Montefiore-Brice, F.R.G.S.
+
+.. vspace:: 1
+
+Robert Moffat: The Missionary Hero of Kuruman. By
+David J. Deane.
+
+.. vspace:: 1
+
+Samuel Crowther: The Slave Boy who became Bishop of
+the Niger. By Jesse Page, F.R.G.S.
+
+.. vspace:: 1
+
+Thomas J. Comber: Missionary Pioneer to the Congo.
+By Rev. J. B. Myers.
+
+.. vspace:: 1
+
+William Carey: The Shoemaker who became the Father
+and Founder of Modern Missions. By Rev. J. B. Myers.
+
+.. vspace:: 1
+
+Henry Martyn. By Jesse Page, F.R.G.S.
+
+.. vspace:: 2
+
+.. class:: bold
+
+NEW POPULAR BIOGRAPHIES.
+
+.. vspace:: 1
+
+.. class:: center small
+
+*Crown 8vo. Cloth boards. Fully Illustrated.*
+
+.. vspace:: 1
+
+\*Women who have Worked and Won. The Life Story of
+Mrs. Spurgeon, Mrs. Booth-Tucker, F. R. Havergal, and Ramabai.
+By Jennie Chappell.
+
+.. vspace:: 1
+
+John Bright: Apostle of Free Trade. By Jesse Page,
+F.R.G.S.
+
+.. vspace:: 1
+
+The Two Stephensons. By John Alexander.
+
+.. vspace:: 1
+
+J. Passmore Edwards: Philanthropist. By E. Harcourt
+Burrage.
+
+.. vspace:: 1
+
+Dwight L. Moody: The Life-work of a Modern Evangelist.
+By Rev. J. H. Batt.
+
+.. vspace:: 1
+
+Noble Work by Noble Women: Sketches of the Lives of
+the Baroness Burdett-Coutts, Lady Henry Somerset, Miss Sarah
+Robinson, Mrs. Fawcett, and Mrs. Gladstone. By Jennie Chappell,
+Author of "Four Noble Women," etc.
+
+.. vspace:: 1
+
+
+Four Noble Women and their Work: Sketches of the Life
+and Work of Frances Willard, Agnes Weston. Sister Dora, and
+Catherine Booth. By Jennie Chappell.
+
+.. vspace:: 1
+
+The Canal Boy who became President. By Frederic T.
+Gammon.
+
+.. vspace:: 1
+
+Florence Nightingale: The Wounded Soldiers' Friend.
+By Eliza F. Pollard.
+
+.. vspace:: 1
+
+Four Heroes of India: Clive, Warren Hastings, Havelock,
+Lawrence. By F. M. Holmes.
+
+.. vspace:: 1
+
+Fridtjof Nansen: His Life and Explorations. By J. A.
+Bain.
+
+.. vspace:: 1
+
+General Gordon: The Christian Soldier and Hero. By
+G. Barnett Smith.
+
+.. vspace:: 1
+
+W. E. Gladstone: England's Great Commoner. By Walter
+Jerrold. With Portrait and 38 other Illustrations.
+
+.. vspace:: 1
+
+Heroes and Heroines of the Scottish Covenanters. By
+J. Meldrum Dryerre, LL.B., F.R.G.S.
+
+.. vspace:: 1
+
+John Knox and the Scottish Reformation. By G.
+Barnett Smith.
+
+.. vspace:: 1
+
+Philip Melancthon: The Wittemberg Professor and
+Theologian of the Reformation. By David J. Deane.
+
+.. vspace:: 1
+
+Sir Richard Tangye ("One and All"): An Autobiography.
+With 21 Original Illustrations by Frank Hewitt. 192 pages.
+
+.. vspace:: 1
+
+Sir John Franklin and the Romance of the North-West
+Passage. By G. Barnett Smith.
+
+.. vspace:: 1
+
+The Slave and His Champions: Sketches of Granville
+Sharp, Thomas Clarkson, William Wilberforce, and Sir T. F.
+Buxton. By C. D. Michael.
+
+.. vspace:: 1
+
+Henry M. Stanley: The African Explorer. By Arthur
+Montefiore-Brice, F.G.S., F.R.G.S.
+
+.. vspace:: 1
+
+C. H. Spurgeon: His Life and Ministry. By Jesse Page, F.R.G.S.
+
+.. vspace:: 1
+
+Two Noble Lives: John Wicliffe, the Morning Star of the
+Reformation; and Martin Luther, the Reformer. By David
+J. Deane. 208 pages.
+
+.. vspace:: 1
+
+William Tyndale: The Translator of the English Bible.
+By G. Barnett Smith.
+
+.. vspace:: 1
+
+The Marquess of Salisbury: His Inherited Characteristics,
+Political Principles, and Personality. By W. F. Aitken. 1s. 6d. Net.
+
+.. vspace:: 1
+
+Frederick Temple, Archbishop of Canterbury. By W.
+Francis Aitken, Author of "Baden-Powell," etc. 1s. 6d. Net.
+
+.. vspace:: 1
+
+Joseph Parker, D.D.: His Life and Ministry. By Albert
+Dawson. 1s. 6d. Net.
+
+.. vspace:: 1
+
+Hugh Price Hughes. By Rev. J. Gregory Mantle, 1s. 6d. Net.
+
+.. vspace:: 2
+
+.. class:: bold
+
+NEW CENTURY LEADERS.
+
+.. vspace:: 1
+
+.. class:: small bold
+
+An up-to-date Series of Biographies of Men of Mark at the Opening of
+the Twentieth Century.
+
+.. vspace:: 1
+
+.. class:: small center white-space-pre-line
+
+*Crown 8vo. 160 pages and Portrait. Handsomely bound in cloth boards.
+1s. 6d. each Net.*
+
+.. vspace:: 1
+
+R. J. Campbell, M.A.; Minister of the City Temple,
+London. By Charles T. Bateman.
+
+.. vspace:: 1
+
+Dr. Barnardo: "The Foster-Father of Nobody's Children."
+By Rev. J. H. Batt.
+
+.. vspace:: 1
+
+W. Robertson Nicoll, LL.D., Editor and Preacher. By
+Jane Stoddart.
+
+.. vspace:: 1
+
+F. B. Meyer: His Life and Work. By Jennie Street.
+
+.. vspace:: 1
+
+John Clifford, M.A., B.Sc., LL.D., D.D. By Chas. T.
+Bateman.
+
+.. vspace:: 1
+
+Thirty Years in the East End: A Marvellous Story of
+Mission Work. By W. Francis Aitken.
+
+.. vspace:: 1
+
+Alexander Maclaren, D.D.: The Man and His Message.
+By Rev. John C. Carlile.
+
+.. vspace:: 1
+
+Lord Milner. By W. B. Luke.
+
+.. vspace:: 1
+
+Lord Rosebery: Imperialist. By J. A. Hammerton,
+Author of "J. M. Barrie and His Books."
+
+.. vspace:: 1
+
+Joseph Chamberlain: A Romance of Modern Politics.
+By Arthur Mee.
+
+.. vspace:: 1
+
+General Booth: The Man and His Work. By Jesse Page,
+F.R.G.S.
+
+.. vspace:: 2
+
+.. class:: bold
+
+ILLUSTRATED REWARD BOOKS.
+
+.. vspace:: 1
+
+.. class:: center small
+
+*Crown 8vo. 160 pages. Cloth extra. Fully Illustrated.*
+
+.. vspace:: 1
+
+\*Bethesda Chapel. A Story of the Good Old Times. By
+Rev. C. Leach, D.D.
+
+.. vspace:: 1
+
+Philip's Inheritance; or, Into a Far Country. By F.
+Spenser.
+
+.. vspace:: 1
+
+Donald's Victory. By Lydia Phillips.
+
+.. vspace:: 1
+
+A Red Brick Cottage. By Lady Hope, Author of "His
+Handiwork," etc.
+
+.. vspace:: 1
+
+Marchester Stories. By Rev. C. Herbert.
+
+.. vspace:: 1
+
+Aileen; or, The Love of Christ Constraineth Us. By
+Laura A. Barter-Snow, Author of "Harold; or, Two Died for Me."
+
+.. vspace:: 1
+
+Everybody's Friend; or, Hilda Danvers' Influence. By
+Evelyn Everett-Green, Author of "Barbara's Brother," etc.
+
+.. vspace:: 1
+
+In Friendship's Name. A Story for Boys. By Lydia
+Phillips, Author of "Frank Burleigh, etc.
+
+.. vspace:: 1
+
+The Legend of the Silver Cup. Allegories for Children.
+By Rev. G. Critchley, B.A. With 12 Illustrations. Small 4to.
+
+.. vspace:: 1
+
+Nella; or, Not My Own. By Jessie Goldsmith Cooper.
+
+.. vspace:: 1
+
+Sister Royal. By Mrs. Haycraft, Author of "The
+Children of Cherryholme," etc.
+
+.. vspace:: 2
+
+.. class:: bold
+
+DEVOTIONAL CLASSICS.
+
+.. vspace:: 1
+
+.. class:: center small white-space-pre-line
+
+*A new series of Devotional Books by standard authors. Well printed on
+good paper. Size 6-1/4 by 4-1/4 inches. Beautifully bound in
+cloth boards. 1s. 6d. each. Net.*
+
+.. vspace:: 1
+
+\*The Imitation of Christ. By Thomas á Kempis.
+
+.. vspace:: 1
+
+\*The Holy War. By John Bunyan.
+
+.. vspace:: 2
+
+.. class:: bold
+
+PICTURE BOOKS.
+
+.. vspace:: 1
+
+.. class:: center small white-space-pre-line
+
+*Size 9 by 7 inches. Coloured and numerous other Illustrations. 
+Handsome Coloured Cover. Paper Boards with Cloth Back.*
+
+.. vspace:: 1
+
+Happy and Gay: Pictures and Stories for Every Day. By
+D. J. D., Author of "Stories of Animal Sagacity." etc.
+
+.. vspace:: 1
+
+Pleasures and Joys for Girls and Boys. By D. J. D.,
+Author of "Stories of Animal Sagacity."
+
+.. vspace:: 1
+
+Anecdotes of Animals and Birds. By Uncle John.
+
+.. vspace:: 1
+
+Stories of Animal Sagacity. By D. J. D. A companion
+volume to "Anecdotes of Animals."
+
+.. vspace:: 2
+
+.. class:: bold
+
+"ONWARD" TEMPERANCE LIBRARY.
+
+.. vspace:: 1
+
+.. class:: center small
+
+*Crown 8vo. Illustrated. Cloth extra.*
+
+.. vspace:: 1
+
+Dick's Chum. By Miss M. A. Paull.
+
+.. vspace:: 1
+
+We Girls. By Miss M. A. Paull.
+
+.. vspace:: 1
+
+The Fortunes of Riverside. By S. Hocking.
+
+.. vspace:: 1
+
+Blossom and Blight. By Miss M. A. Paull, Author of
+"Tim's Troubles," etc.
+
+.. vspace:: 1
+
+Manor House Mystery. By Mrs. C. L. Balfour.
+
+.. vspace:: 1
+
+The Bird Angel. By Miss M. A. Paull.
+
+.. vspace:: 1
+
+Running from Home. By Miss M. A. Paull.
+
+.. vspace:: 1
+
+Lyndon the Outcast. By Mrs. Clara Lucas Balfour.
+
+.. vspace:: 1
+
+Ronald Clayton's Mistake. By Miss M. A. Paull.
+
+.. vspace:: 1
+
+Nearly Lost, but Dearly Won. By Rev. T. P. Wilson,
+M.A., Author of "Frank Oldfield," etc.
+
+.. vspace:: 1
+
+Saph's Foster-Bairn. By Rev. A. Colbeck, Author of the
+£100 prize tale, "Fall of the Staincliffes," etc.
+
+.. vspace:: 1
+
+Hoyle's Popular Ballads and Recitations. By William
+Hoyle, Author of "Hymns and Songs," etc.
+
+.. vspace:: 3
+
+.. class:: center large bold
+
+   *1s. each.*
+
+.. vspace:: 1
+
+.. class:: bold
+
+"ONWARD" TEMPERANCE LIBRARY.
+
+.. vspace:: 1
+
+.. class:: center small
+
+*Crown 8vo. Illustrated. Cloth extra.*
+
+.. vspace:: 1
+
+A Western Waif. By Old Cornish, Author of "Ste," "Our
+Girls," "Pete and his Daddy," etc., etc.
+
+.. vspace:: 1
+
+Addy's Two Lives. By Mrs. Ruth B. Yates, Author of
+"Grumpy Grafton," "Green and Gold," etc., etc.
+
+.. vspace:: 1
+
+John Dudley's Secret; or, The Gambler's Daughter. By
+Edward Armytage.
+
+.. vspace:: 1
+
+Suspected; or, Under a Cloud. By A. J. Glasspool, Author
+of "Snatched from Death," etc.
+
+.. vspace:: 1
+
+Whispers to those who wish to Enjoy a Happy Life.
+By Rev. Benj. Smith, Author of "Climbing," "Gems Reset," etc.
+
+.. vspace:: 1
+
+Snatched from Death. By Alfred J. Glasspool, Author of
+"The Young Abstainer's Laboratory," etc., etc.
+
+.. vspace:: 3
+
+.. class:: center large bold
+
+   *1s. each.*
+
+.. vspace:: 1
+
+.. class:: bold
+
+ONE SHILLING REWARD BOOKS.
+
+.. vspace:: 1
+
+.. class:: center small
+
+*Fully Illustrated. Crown 8vo. Cloth extra.*
+
+.. vspace:: 1
+
+"Other Pets and their Wild Cousins. By Rev. J. Isabell,
+F.E.S. Many Illustrations.
+
+.. vspace:: 1
+
+\*Little Chris the Castaway. By F. Spenser.
+
+.. vspace:: 1
+
+\*The Children of the Priory. By J. L. Hornibrook.
+
+.. vspace:: 1
+
+\*Through Sorrow and Joy; or, The Story of an English
+Bible in Reformation Times. By M. A. R.
+
+.. vspace:: 1
+
+\*Tom and the Enemy. By Clive R. Fenn.
+
+.. vspace:: 1
+
+Ruth's Roses: or, What Some Girls Did. By Laura A.
+Barter-Snow. Four Illustrations.
+
+.. vspace:: 1
+
+In Paths of Peril: A Boy's Adventures in Nova Scotia. By
+J. Macdonald Oxley. Six Illustrations.
+
+.. vspace:: 1
+
+Pets and their Wild Cousins: New and True Stories of
+Animals. By Rev. J. Isabell, F.E.S. Twenty Illustrations.
+
+.. vspace:: 1
+
+A Brother's Need. By L. S. Mead. Crown 8vo. 128
+pages. Illustrated. Cloth.
+
+.. vspace:: 1
+
+Sunshine and Snow. By Harold Bindloss. Six Illustrations.
+
+.. vspace:: 1
+
+Donalblane of Darien. By J. Macdonald Oxley. Six
+Illustrations.
+
+.. vspace:: 1
+
+Crown Jewels. By Heather Grey. Four Illustrations.
+
+.. vspace:: 1
+
+At the Bend of the Creek. By E. Gertrude and Annie A.
+Hart. Four Illustrations.
+
+.. vspace:: 1
+
+All Play and No Work. By Harold Avery, Author of
+"The Triple Alliance," etc. Six Illustrations by Harold Copping.
+
+.. vspace:: 1
+
+Bernard or Ben? By Jennie Chappell, Author of "Raymond's
+Rival," etc. Six Illustrations by T. L. Pethybridge.
+
+.. vspace:: 1
+
+Always Happy; or, The Story of Helen Keller. By
+Jennie Chappell, Author of "Ted's Trust."
+
+.. vspace:: 1
+
+Birdie and her Dog, and other Stories of Canine Sagacity.
+By Miss Phillips (Mrs. H. B. Looker).
+
+.. vspace:: 1
+
+Bessie Drew; or, The Odd Little Girl. By Amy Manifold.
+
+.. vspace:: 1
+
+Cola Monti; or, The Story of a Genius. By Mrs. Craik,
+Author of "John Halifax, Gentleman."
+
+.. vspace:: 1
+
+The Children of Cherryholme. By M. S. Haycraft.
+
+.. vspace:: 1
+
+The Fatal Nugget. By E. Harcourt Burrage.
+
+.. vspace:: 1
+
+Frank Burleigh; or, Chosen to be a Soldier. By Lydia
+Phillips.
+
+.. vspace:: 1
+
+Harold; or, Two Died for Me. By Laura A. Barter.
+
+.. vspace:: 1
+
+Indian Life in the Great North-West. By Egerton R.
+Young, Missionary to the North American Indian Tribes.
+
+.. vspace:: 1
+
+Jack the Conqueror; or, Difficulties Overcome. By the
+Author of "Dick and his Donkey."
+
+.. vspace:: 1
+
+Jim's Discovery; or, On the Edge of a Desert. By T. M.
+Browne, Author of "Dawson's Madge," etc.
+
+.. vspace:: 1
+
+Little Bunch's Charge; or, True to Trust. By Nellie
+Cornwall, Author of "Tamsin Rosewarne," etc.
+
+.. vspace:: 1
+
+Lost in the Backwoods. By Edith C. Kenyon.
+
+.. vspace:: 1
+
+The Little Woodman and his Dog Caesar. By Mrs.
+Sherwood.
+
+.. vspace:: 1
+
+Marjory; or, What would Jesus do? By Laura A. Barter-Snow.
+
+.. vspace:: 1
+
+Our Den. By E. M. Waterworth, Author of "Master
+Lionel, that Tiresome Child."
+
+.. vspace:: 1
+
+Paul the Courageous. By Mabel Quiller-Couch. Six
+Illustrations by Florence Reason.
+
+.. vspace:: 1
+
+Roy's Sister; or, His Way and Hers. By M. B. Manwell.
+
+.. vspace:: 1
+
+Raymond's Rival; or, Which will Win? By Jennie
+Chappell.
+
+.. vspace:: 1
+
+St. Mary's Convent; or, Chapters in the Life of a Nun. By
+J. S. Dammast, Author of "The Fatal Legacy.
+
+.. vspace:: 1
+
+Sweet Nancy. By L. T. Meade, Author of "Scamp and I."
+
+.. vspace:: 1
+
+Uncle Zeph and His Yarns. By Wm. J. Forster, Author
+of "A Trip to Many Lands," etc. Four Illustrations.
+
+.. vspace:: 1
+
+Who was the Culprit? By Jennie Chappell.
+
+.. vspace:: 1
+
+\*Partridge's Popular Reciter. Old Favourites and New.
+Cloth Boards, 1s. Net.
+
+.. vspace:: 1
+
+"Golden Words for Every Day. By M. Jennie Street.
+A prettily illustrated Text Book for the Young.
+
+.. vspace:: 1
+
+The Armour of Life. A Little Book of Friendly Counsel.
+Edited by J. A. Hammerton, Author of "A Young Man's Mind."
+Foolscap 8vo. Ninety-six pages. Cloth.
+
+.. vspace:: 1
+
+Hiram Golf's Religion. By George H. Hepworth, D.D,,
+Author of "The Life Beyond." etc. 128 pages. Cloth gilt.
+
+.. vspace:: 1
+
+Eon the Good; and other Verses. By Charlotte Murray.
+Crown 8vo.
+
+.. vspace:: 1
+
+What is Christian Science? An Examination of the
+Metaphysical, the Theological, and the Therapeutic Theories of
+the System. By P. C. Wolcott, B.D. Long 8vo. 96 pages. Cloth.
+
+.. vspace:: 1
+
+Another Pentecost. By Rev. I. E. Page. Long 8vo. 128
+pages. Cloth boards.
+
+.. vspace:: 1
+
+Uncrowned Queens. By Charlotte Skinner, Author of
+"Sisters of the Master." Small 8vo. 112 pages. Cloth.
+
+.. vspace:: 1
+
+Sisters of the Master. By Charlotte Skinner, Author of
+"The Master's Gifts to Women."
+
+.. vspace:: 1
+
+Light and Darkness; or, All One in Christ Jesus. By Spes.
+An Anti-Ritualistic Story. Crown 8vo. 128 pages. Paper covers.
+
+.. vspace:: 1
+
+Molly and I. By the Author of "Jack," "At Sunset," etc.
+Long 8vo. Illustrated Title Page.
+
+.. vspace:: 1
+
+Cicely's Little Minute. By Harvey Gobel. Long 8vo.
+Illustrated Title Page. Cloth extra.
+
+.. vspace:: 1
+
+Victoria: the Well-Beloved. (1819-1901.) By W. Francis
+Aitken, Author of "Baden Powell: the Hero of Mafeking." Eight
+illustrations. Crown 8vo. 152 pages. Cloth boards.
+
+.. vspace:: 2
+
+.. class:: bold
+
+CHEAP REPRINTS OF POPULAR BOOKS FOR THE YOUNG.
+
+.. vspace:: 1
+
+.. class:: center small
+
+*Crown 8vo. 160 pages. Illustrated. Cloth boards, 1s. each.*
+
+.. vspace:: 1
+
+\*Satisfied. By Catherine Trowbridge.
+
+.. vspace:: 1
+
+\*Ted's Trust; or, Aunt Elmerley's Umbrella. By Jennie
+Chappell.
+
+.. vspace:: 1
+
+\*A Candle Lighted by the Lord. By Mrs. E. Ross.
+
+.. vspace:: 1
+
+\*Alice Western's Blessing. By Ruth Lamb.
+
+.. vspace:: 1
+
+Tamsin Rosewarne and Her Burdens: A Tale of Cornish
+Life. By Nellie Cornwall.
+
+.. vspace:: 1
+
+Raymond and Bertha: A Story of True Nobility. By
+Lydia Phillips, Author of "Frank Burleigh; or, Chosen to be a
+Soldier."
+
+.. vspace:: 1
+
+Gerald's Dilemma. By Emma Leslie. Crown 8vo. 160
+pages. Six Illustrations. Cloth.
+
+.. vspace:: 1
+
+Fine Gold; or, Ravenswood Courtenay. By Emma
+Marshall, Author of "Eaglehurst Towers," etc.
+
+.. vspace:: 1
+
+Marigold. By Mrs. L. T. Meade, Author of "The Little
+Princess of Tower Hill," etc.
+
+.. vspace:: 1
+
+Jack's Heroism. A Story of Schoolboy Life. By Edith C.
+Kenyon.
+
+.. vspace:: 1
+
+The Lads of Kingston. A Tale of a Seaport Town. By
+James Capes Story.
+
+.. vspace:: 1
+
+Her Two Sons: A Story for Young Men and Maidens. By
+Mrs. Charles Garnett.
+
+.. vspace:: 1
+
+Rag and Tag: A Plea for the Waifs and Strays of Old
+England. By Mrs. E. J. Whittaker.
+
+.. vspace:: 1
+
+Through Life's Shadows. By Eliza F. Pollard, Author of
+"Roger the Ranger."
+
+.. vspace:: 1
+
+The Little Princess of Tower Hill. By L. T. Meade,
+Author of "The Lady of the Forest."
+
+.. vspace:: 1
+
+Clovie and Madge. By Mrs. G. S. Reaney.
+
+.. vspace:: 1
+
+Ellerslie House: A Book for Boys. By Emma Leslie.
+
+.. vspace:: 1
+
+Like a Little Candle; or, Bertrand's Influence. By Mrs.
+Haycraft.
+
+.. vspace:: 1
+
+Martin Redfern's Vow. By Ethel F. Heddle.
+
+.. vspace:: 1
+
+The Dairyman's Daughter. By Legh Richmond.
+
+.. vspace:: 1
+
+Bible Wonders. By Rev. Dr. Newton.
+
+.. vspace:: 1
+
+The Pilgrim's Progress. By John Bunyan. 416 pages.
+Forty-seven Illustrations.
+
+.. vspace:: 1
+
+Our Duty to Animals. By Mrs. C. Bray, Author of
+"Physiology for Schools," etc. Intended to teach the young
+kindness to Animals.
+
+.. vspace:: 2
+
+.. class:: bold
+
+NEW SERIES OF ONE SHILLING PICTURE BOOKS.
+
+.. vspace:: 1
+
+.. class:: small
+
+*Size 10-1/2 by 8 inches. 96 pages. Coloured Frontispiece and numerous
+other illustrations. Handsomely bound in paper boards, covers
+printed in 10 colours and varnished.*
+
+.. vspace:: 1
+
+\*Tell Me a Tale! A Picture Story Book for Little Children.
+By J. D., Author of "Two Little Bears at School," etc.
+
+.. vspace:: 1
+
+\*Little Snow-Shoes' Picture Book. By R. V., Author of
+"Merry and Free."
+
+.. vspace:: 1
+
+\*In Animal Land with Louis Wain. Coloured frontispiece
+and many other of Louis Wain's striking animal pictures for the
+young.
+
+.. vspace:: 1
+
+Two Little Bears at School. By J. D., Author of "Happy
+Playmates," "Buttercups and Daisies," etc.
+
+.. vspace:: 1
+
+Merry and Free. Pictures and Stories for our Little Ones.
+By R. V.
+
+.. vspace:: 1
+
+We Three and Grandpa! A Picture Story Book for Little
+Folks. By J. D.
+
+.. vspace:: 1
+
+Bruno's Prize. Pictures and Stories for Merry and Wise.
+By D. J. D., Author of "Our Pets' Picture Book."
+
+.. vspace:: 1
+
+Our Pets' Picture Book. By D. J. D.
+
+.. vspace:: 1
+
+Happy Playmates: Pictures and Stories for Little Folks.
+By J. D., Author of "Buttercups and Daisies," etc.
+
+.. vspace:: 1
+
+Bible Pictures and Stories: Old Testament. By D. J. D.
+
+.. vspace:: 1
+
+Bible Pictures and Stories: New Testament. By James
+Weston and D. J. D.
+
+.. vspace:: 1
+
+Pussies and Puppies. By Louis Wain.
+
+.. vspace:: 1
+
+\*The Life of Jesus. 112 pages. Coloured frontispiece and
+many other illustrations.
+
+.. vspace:: 1
+
+\*Gentle Jesus: A Book of Bible Pictures in colour. Size,
+11 by 8 inches.
+
+.. vspace:: 2
+
+.. class:: bold
+
+ONE SHILLING TOY BOOKS.
+
+.. vspace:: 1
+
+Father Time. A Novel Mechanical Toy Book. Cover
+tastefully printed in colours. Contains beautifully reproduced
+illustrations of the games played during each month of the year;
+also clock-dial with real hands.
+
+.. vspace:: 1
+
+Animals, Tame and Wild. Fourteen coloured pages of
+Animals drawn from life, with appropriate footlines. Beautifully
+coloured cover, varnished.
+
+.. vspace:: 2
+
+.. class:: bold
+
+BOOKS FOR CHRISTIAN WORKERS.
+
+.. vspace:: 1
+
+.. class:: center small white-space-pre-line
+
+*Large Crown 16mo. 128 pages. Chastely bound, in Cloth Boards.
+1s. each.*
+
+.. vspace:: 1
+
+\*Some Secrets of Christian Living. By Rev. F. B. Meyer.
+
+.. vspace:: 1
+
+\*The Overcoming Life. By Rev. E. W. Moore.
+
+.. vspace:: 1
+
+\*Marks of the Master. By Charlotte Skinner.
+
+.. vspace:: 1
+
+Some Deeper Things. By Rev. F. B. Meyer.
+
+.. vspace:: 1
+
+Steps to the Blessed Life. By Rev. F. B. Meyer.
+
+.. vspace:: 1
+
+Daybreak in the Soul. By Rev. E. W. Moore.
+
+.. vspace:: 1
+
+The Temptation of Christ. By C. Arnold Healing, M.A.
+
+.. vspace:: 1
+
+Keynotes to the Happy Life. By Charlotte Skinner,
+Author of "The Master's Gifts to Women," etc.
+
+.. vspace:: 1
+
+For Love's Sake. By Charlotte Skinner, Author of
+"Uncrowned Queens," etc.
+
+.. vspace:: 3
+
+.. class:: center large bold
+
+   *9d. each.*
+
+.. vspace:: 1
+
+.. class:: bold
+
+NINEPENNY SERIES OF ILLUSTRATED BOOKS.
+
+.. vspace:: 1
+
+.. class:: center small
+
+*96 pages. Small Crown 8vo. Illustrated. Handsome cloth covers.*
+
+.. vspace:: 1
+
+
+\*Bob and Bob's Baby. By Mary E. Lester.
+
+.. vspace:: 1
+
+\*Robin's Golden Deed. By Ruth Lynn.
+
+.. vspace:: 1
+
+\*The Little Captain: A Temperance Tale. By Lynde Palmer.
+
+.. vspace:: 1
+
+Grandmother's Child. By Annie S. Swan. New Edition.
+
+.. vspace:: 1
+
+Dorothy's Trust. By Adela Frances Mount, Author of
+"Margery's Quest."
+
+.. vspace:: 1
+
+Grannie's Treasures; and how they helped her. By L. E. Tiddeman.
+
+.. vspace:: 1
+
+His Majesty's Beggars. By Mary E. Ropes.
+
+.. vspace:: 1
+
+Love's Golden Key. By Mary E. Lester.
+
+.. vspace:: 1
+
+Faithful Friends. By C. A. Mercer, Author of "Rob and I."
+
+.. vspace:: 1
+
+Only Roy. By E. M. Water worth and Jennie Chappell.
+
+.. vspace:: 1
+
+Aunt Armstrong's Money. By Jennie Chappell, Author of
+"Carol's Gift," etc.
+
+.. vspace:: 1
+
+The Babes in the Basket; or, Daph and Her Charge.
+
+.. vspace:: 1
+
+Bel's Baby. By Mary E. Ropes.
+
+.. vspace:: 1
+
+Birdie's Benefits; or, A Little Child Shall Lead Them.
+By Edith Ruth Boddy.
+
+.. vspace:: 1
+
+Carol's Gift; or, "What Time I am Afraid I will Trust in
+Thee." By Jennie Chappell, Author of "Without a Thought."
+
+.. vspace:: 1
+
+Cripple George; or, God has a Plan for Every Man. A
+Temperance Story. By John W. Kneeshaw.
+
+.. vspace:: 1
+
+Cared For; or, The Orphan Wanderers. By Mrs. C. E.
+Bowen, Author of "Dick and his Donkey," etc.
+
+.. vspace:: 1
+
+Dawson's Madge: or, The Poacher's Daughter. By T. M.
+Browne, Author of "The Musgrove Ranch," etc.
+
+.. vspace:: 1
+
+A Flight with the Swallows, By Emma Marshall.
+
+.. vspace:: 1
+
+The Five Cousins. By Emma Leslie.
+
+.. vspace:: 1
+
+Foolish Chrissy; or, Discontent and its Consequences. By
+Meta, Author of "Noel's Lessons," etc.
+
+.. vspace:: 1
+
+For Lucy's Sake. By Annie S. Swan.
+
+.. vspace:: 1
+
+Giddie Garland; or, The Three Mirrors. By Jennie Chappell.
+
+.. vspace:: 1
+
+How a Farthing Made a Fortune; or, Honesty is the Best
+Policy. By Mrs. C. E. Bowen.
+
+.. vspace:: 1
+
+How Paul's Penny became a Pound. By Mrs. Bowen,
+Author of "Dick and his Donkey."
+
+.. vspace:: 1
+
+How Peter's Pound became a Penny. By the same Author.
+
+.. vspace:: 1
+
+John Blessington's Enemy: A Story of Life in South
+Africa. By E. Harcourt Burrage, Author of "The Fatal
+Nugget," etc.
+
+.. vspace:: 1
+
+John Oriel's Start in Life. By Mary Howitt.
+
+.. vspace:: 1
+
+Master Lionel, that Tiresome Child. By E. M. Waterworth.
+
+.. vspace:: 1
+
+The Man of the Family. By Jennie Chappell.
+
+.. vspace:: 1
+
+Mattie's Home; or, The Little Match-girl and her Friends.
+
+.. vspace:: 1
+
+Nan; or, The Power of Love. By Eliza F. Pollard, Author
+of "Avice," etc.
+
+.. vspace:: 1
+
+Phil's Frolic. By F. Scarlett Potter.
+
+.. vspace:: 1
+
+Paul: A Little Mediator. By Maude M. Butler.
+
+.. vspace:: 1
+
+Rob and I; or, By Courage and Faith. By C. A. Mercer.
+
+.. vspace:: 1
+
+A Sailor's Lass. By Emma Leslie.
+
+.. vspace:: 1
+
+Una Bruce's Troubles. By Alice Price.
+
+.. vspace:: 1
+
+Won from the Sea. By E. C. Phillips (Mrs. H. B. Looker),
+Author of "Birdie and Her Dog."
+
+.. vspace:: 3
+
+.. class:: center large bold
+
+   *6d. each.*
+
+.. vspace:: 1
+
+.. class:: bold
+
+NEW SERIES OF SIXPENNY PICTURE BOOKS.
+
+.. vspace:: 1
+
+.. class:: small
+
+*Crown quarto. With Coloured Frontispiece and many other illustrations.
+Handsomely bound in paper boards, with cover printed in ten colours.*
+
+.. vspace:: 1
+
+\*Old Mother Bunnie! A Picture Story Book for Laddies
+and Lassies. By J. D.
+
+.. vspace:: 1
+
+\*Off We Go! Pictures and Stories for Boys and Girls. By R. V.
+
+.. vspace:: 1
+
+Sweet Stories Retold: A Bible Picture Book for Young Folks.
+
+.. vspace:: 1
+
+Little Snowdrop's Bible Picture Book.
+
+.. vspace:: 1
+
+March Away! Pictures and Stories for Every Day.
+
+.. vspace:: 1
+
+After the Ball: Pictures and Stories for One and All.
+
+.. vspace:: 2
+
+.. class:: bold
+
+THE MARIGOLD SERIES.
+
+.. vspace:: 1
+
+.. class:: small
+
+*An unequalled series of Standard stories, printed on good laid paper.
+Imperial 8vo. 128 pages. Illustrated covers with vignetted design printed
+in eight Colours. Price 6d. each net.*
+
+.. vspace:: 1
+
+Pride and Prejudice. By Jane Austen.
+
+.. vspace:: 1
+
+From Jest to Earnest. By E. P. Roe.
+
+.. vspace:: 1
+
+The Wide, Wide World. By Susan Warner.
+
+.. vspace:: 2
+
+.. class:: bold
+
+POPULAR EDITION.
+
+.. vspace:: 1
+
+Don Lavington; or, In the Days of the Press Gang. By
+Geo. Manville Fenn. Royal 8vo. 160 pages. Ten Illustrations
+by W. Rainey. R.I. Cover printed in colours.
+
+.. vspace:: 2
+
+.. class:: bold
+
+THE "RED DAVE" SERIES.
+
+.. vspace:: 1
+
+.. class:: center small white-space-pre-line
+
+*New and enlarged Edition. Handsomely bound in cloth boards.
+Well illustrated.*
+
+.. vspace:: 1
+
+Roy Carpenter's Lesson. By Keith Marlow.
+
+.. vspace:: 1
+
+\*Gerald's Guardian. By Charles Herbert.
+
+.. vspace:: 1
+
+\*Where a Queen once Dwelt. By Jetta Vogel.
+
+.. vspace:: 1
+
+Wilful Jack. By M. I. Hurrell.
+
+.. vspace:: 1
+
+Willie the Waif. By Minie Herbert.
+
+.. vspace:: 1
+
+A Sunday Trip and what came of it. By E. J. Romanes.
+
+.. vspace:: 1
+
+Little Tim and his Picture. By Beatrice Way.
+
+.. vspace:: 1
+
+Midge. By L. E. Tiddeman.
+
+.. vspace:: 1
+
+The Conjurer's Wand. By Henrietta S. Streatfeild.
+
+.. vspace:: 1
+
+Benjamin's New Boy.
+
+.. vspace:: 1
+
+Enemies: A Tale for Little Lads and Lasses.
+
+.. vspace:: 1
+
+Cherry Tree Place.
+
+.. vspace:: 1
+
+A Tale of Four Foxes.
+
+.. vspace:: 1
+
+A Little Town Mouse.
+
+.. vspace:: 1
+
+The Little Governess.
+
+.. vspace:: 1
+
+Puppy-Dog Tales.
+
+.. vspace:: 1
+
+Mother's Boy.
+
+.. vspace:: 1
+
+A Great Mistake.
+
+.. vspace:: 1
+
+From Hand to Hand.
+
+.. vspace:: 1
+
+That Boy Bob.
+
+.. vspace:: 1
+
+Buy Your Own Cherries.
+
+.. vspace:: 1
+
+Left in Charge, and other Stories.
+
+.. vspace:: 1
+
+A Threefold Promise.
+
+.. vspace:: 1
+
+The Four Young Musicians.
+
+.. vspace:: 1
+
+Two Little Girls and What they did.
+
+.. vspace:: 1
+
+Joe and Sally; or, A Good Deed and its Fruits.
+
+.. vspace:: 1
+
+The Island Home.
+
+.. vspace:: 1
+
+Chrissy's Treasure.
+
+.. vspace:: 1
+
+Lost in the Snow.
+
+.. vspace:: 1
+
+Owen's Fortune.
+
+.. vspace:: 1
+
+Red Dave: or, What Wilt Thou have Me to Do.
+
+.. vspace:: 1
+
+Dick and His Donkey.
+
+.. vspace:: 1
+
+Jessie Dyson.
+
+.. vspace:: 1
+
+Come Home, Mother.
+
+.. vspace:: 3
+
+.. class:: center large bold
+
+   *4d. each.*
+
+.. vspace:: 1
+
+.. class:: bold
+
+CHEAP "PANSY" SERIES.
+
+.. vspace:: 1
+
+.. class:: small
+
+*Imperial 8vo. 64 pages. Many Illustrations. Cover printed in five colours.*
+
+.. vspace:: 1
+
+The Strait Gate. By Annie S. Swan.
+
+.. vspace:: 1
+
+Mark Desborough's Vow. By Annie S. Swan.
+
+.. vspace:: 1
+
+Her Saddest Blessing.
+
+.. vspace:: 1
+
+Miss Priscilla Hunter, and other Stories.
+
+.. vspace:: 1
+
+Wild Bryonie.
+
+.. vspace:: 1
+
+Avice. A Story of Imperial Rome.
+
+.. vspace:: 1
+
+Links in Rebecca's Life.
+
+.. vspace:: 1
+
+From Different Standpoints.
+
+.. vspace:: 1
+
+Those Boys.
+
+.. vspace:: 1
+
+Christie's Christmas.
+
+.. vspace:: 1
+
+Four Girls at Chautauqua.
+
+.. vspace:: 1
+
+Julia Ried.
+
+.. vspace:: 1
+
+Ester Ried yet Speaking.
+
+.. vspace:: 1
+
+Echoing and Re-echoing.
+
+.. vspace:: 1
+
+Cunning Workmen.
+
+.. vspace:: 1
+
+Tip Lewis and His Lamp.
+
+.. vspace:: 1
+
+The King's Daughter.
+
+.. vspace:: 1
+
+Household Puzzles.
+
+.. vspace:: 1
+
+The Randolphs.
+
+.. vspace:: 1
+
+Wise to Win; or, The Master Hand.
+
+.. vspace:: 1
+
+A New Graft on the Family Tree.
+
+.. vspace:: 1
+
+The Man of the House.
+
+.. vspace:: 2
+
+.. class:: bold
+
+THE YOUNG FOLKS' LIBRARY
+
+.. vspace:: 1
+
+.. class:: center small white-space-pre-line
+
+*of Cloth-bound Books. With Coloured Frontispiece. 64 pages.
+Well Illustrated. Handsome Cloth Covers.*
+
+.. vspace:: 1
+
+The Little Woodman.
+
+.. vspace:: 1
+
+Jacko the Monkey, and other Stories.
+
+.. vspace:: 1
+
+Little Dan, the Orange Boy.
+
+.. vspace:: 1
+
+Ronald's Reason.
+
+.. vspace:: 1
+
+Prom Shadow to Sunshine.
+
+.. vspace:: 1
+
+A Bright Idea.
+
+.. vspace:: 1
+
+Sybil and her Live Snowball.
+
+.. vspace:: 1
+
+The Church Mouse.
+
+.. vspace:: 1
+
+Dandy Jim.
+
+.. vspace:: 1
+
+A Troublesome Trio.
+
+.. vspace:: 1
+
+Perry's Pilgrimage.
+
+.. vspace:: 1
+
+Nita; or, Among the Brigands.
+
+.. vspace:: 3
+
+.. class:: center large bold
+
+   *3d. each.*
+
+.. vspace:: 1
+
+.. class:: bold
+
+NEW PRETTY "GIFT-BOOK" SERIES.
+
+.. vspace:: 1
+
+.. class:: small
+
+*With Beautiful Coloured Frontispiece, and many other Illustrations. Paper
+boards, Cover printed in eight Colours and Varnished, 3d. each.
+Size 6 by 5 inches.*
+
+.. vspace:: 1
+
+Jack and Jill's Picture Book.
+
+.. vspace:: 1
+
+Lady-Bird's Pictures and Stories.
+
+.. vspace:: 1
+
+Playtime Joys for Girls and Boys
+
+.. vspace:: 1
+
+Dolly's Picture Book.
+
+.. vspace:: 1
+
+By the Sea.
+
+.. vspace:: 1
+
+Toby and Kit's Animal Book.
+
+.. vspace:: 1
+
+"Pets "and "Pickles."
+
+.. vspace:: 1
+
+Our Little Pets' Alphabet.
+
+.. vspace:: 1
+
+Blble Stories--Old Testament.
+
+.. vspace:: 1
+
+Blble Stories--New Testament.
+
+.. vspace:: 2
+
+.. class:: bold
+
+TINY LIBRARY
+
+.. vspace:: 1
+
+.. class:: center small
+
+*Books printed in large type. Cloth limp, 3d.*
+
+.. vspace:: 1
+
+Little Chrissie, and other Stories.
+
+.. vspace:: 1
+
+Harry Carlton's Holiday.
+
+.. vspace:: 1
+
+A Little Loss and a Big Find.
+
+.. vspace:: 1
+
+What a Little Cripple Did.
+
+.. vspace:: 1
+
+Bobby.
+
+.. vspace:: 1
+
+Matty and Tom.
+
+.. vspace:: 1
+
+The Broken Window.
+
+.. vspace:: 1
+
+John Madge's Cure for Selfishness.
+
+.. vspace:: 1
+
+The Pedlar's Loan.
+
+.. vspace:: 1
+
+Letty Young's Trials.
+
+.. vspace:: 1
+
+Brave Boys.
+
+.. vspace:: 1
+
+Little Jim, the Rag Merchant.
+
+.. vspace:: 2
+
+.. class:: bold
+
+PARTRIDGE'S PICTORIAL MAGAZINES.
+
+.. vspace:: 1
+
+Our Young Men. A Magazine of Manliness. Edited
+by J. A. Hammerton. A thoroughly bright, breezy, go-ahead
+magazine, with attractive articles, serial stories, answers to
+correspondents, book chat, etc., etc. 1d. Monthly.
+
+.. vspace:: 1
+
+The Yearly Volume, cloth boards, 2s.
+
+.. vspace:: 2
+
+The British Workman. Contains Popular Articles and
+Stories on Temperance, Thrift, etc., and short Biographies of
+eminent Self-made Men; also interesting information of special
+value to the sons of toil. 1d. Monthly.
+
+.. vspace:: 1
+
+The Yearly Volume, 144 pages full of Illustrations, coloured paper boards,
+1s. 6d.; cloth, 2s. 6d.
+
+.. vspace:: 2
+
+The Family Friend. A beautifully Illustrated Magazine
+for the Home Circle, with Serial and Short Stories by popular
+Authors, Helpful Articles, Hints on Dressmaking, etc.
+1d. Monthly.
+
+.. vspace:: 1
+
+The Yearly Volume, in coloured paper boards and cloth back, 1s. 6d.;
+cloth, 2s.; gilt edges, 2s. 6d.
+
+.. vspace:: 2
+
+The Friendly Visitor. An Illustrated Gospel Magazine for
+the people full of entertaining reading with sound religious teaching
+in the form of story, article, and poem. Printed in large type and
+fully illustrated. Just the paper for the aged. 1d. Monthly.
+
+.. vspace:: 1
+
+The Yearly Volume, coloured paper boards and cloth back, 1s. 6d.; cloth, 2s.;
+gilt edges, 2s. 6d.
+
+.. vspace:: 2
+
+The Children's Friend. Charming Stories, interesting Articles,
+Indoor Recreations, beautiful Pictures, Puzzles, Prize
+Competitions, etc. 1d. Monthly.
+
+.. vspace:: 1
+
+The Yearly Volume, coloured paper boards, with cloth back and excellent
+coloured frontispiece, 1s. 6d.; cloth, 2s.; gilt edges, 2s. 6d.
+
+.. vspace:: 2
+
+The Infants' Magazine. No other Periodical can be compared
+with the Infants' Magazine for freshness, brightness, and
+interest. Full of bright pictures and pleasant reading to delight the
+little ones. ld. Monthly.
+
+.. vspace:: 1
+
+The Yearly Volume, coloured paper boards, with cloth back and beautifully
+coloured frontispiece, 1s. 6d.; cloth, 2s.; gilt edges, 2s. 6d.
+
+.. vspace:: 2
+
+The Band of Hope Review. The Leading Temperance
+Periodical for the Young, containing Serial and Short Stories.
+Concerted Recitations, Prize Competitions. Should be in the
+hands of all Members of Bands of Hope. 1/2d. Monthly.
+
+.. vspace:: 1
+
+The Yearly Volume, coloured paper boards, 1s.; cloth boards 1s. 6d.
+
+.. vspace:: 6
+
+.. pgfooter::
